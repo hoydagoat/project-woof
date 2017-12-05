@@ -1,1 +1,22 @@
-ok
+
+/*Style*/
+* {
+	box-sizing: border-box;
+}
+header {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size: 50px;
+	float: right;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+body {
+   			text-align: center;
+   			margin: 0;
+   			padding: 0;
+            background-color: #967aa1;
+            list-style-type: none;
+}
+
